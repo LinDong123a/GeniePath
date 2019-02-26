@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+pretrained_model/
+venv/
+test.py
